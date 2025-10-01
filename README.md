@@ -2,6 +2,7 @@
 
 ### dark theme for rest your eye and enjoyed for time you coding
 
+![codepediascreanshot](./assets/codepedia.png)
 
 `font : Monaspace`
 `icon : Chalice Icon Theme`
