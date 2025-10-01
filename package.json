@@ -2,6 +2,7 @@
   "name": "codepedia",
   "publisher": "codepedia",
   "displayName": "codepedia",
+  "icon": "assets/logo.png",
   "description": "this theme for codepedia",
   "version": "1.0.0",
   "engines": {
