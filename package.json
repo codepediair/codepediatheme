@@ -4,7 +4,7 @@
   "displayName": "codepedia",
   "icon": "assets/logo.png",
   "description": "this theme for codepedia",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -31,8 +31,7 @@
     "code pedia dark theme"
   ],
   "repository": {
-  "type": "git",
-  "url": "git://github.com/codepediair/codepediatheme.git"
+    "type": "git",
+    "url": "git://github.com/codepediair/codepediatheme.git"
   }
-
 }
