@@ -1,0 +1,37 @@
+{
+  "name": "codepedia",
+  "publisher": "codepedia",
+  "displayName": "codepedia",
+  "description": "this theme for codepedia",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "codepdia",
+        "uiTheme": "vs-dark",
+        "path": "./themes/codepdia-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "codepedia",
+    "codepediaTheme",
+    "codepedia theme",
+    "code pedia theme",
+    "code pedia dark",
+    "code pedia dark theme"
+  ],
+  "repository": {
+  "type": "git",
+  "url": "git://github.com/codepediair/codepediatheme.git"
+  }
+
+}
