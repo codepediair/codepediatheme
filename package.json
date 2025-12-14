@@ -16,7 +16,7 @@
       {
         "label": "codepdia",
         "uiTheme": "vs-dark",
-        "path": "./themes/codepdia-color-theme.json"
+        "path": "./themes/codepedia-color-theme.json"
       }
     ]
   },
