@@ -4,7 +4,7 @@
   "displayName": "codepedia",
   "icon": "assets/logo.png",
   "description": "this theme for codepedia",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "engines": {
     "vscode": "^1.104.0"
   },
